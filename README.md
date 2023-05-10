@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Benetpaulbenny
-- 👀 I’m interested in coding and website development
-- 🌱 I’m currently learning B-Tech in IT
-- 📫 Here is my virtual contact card - https://benetpaul.carrd.co/ 
+- Hi, I’m @Benetpaulbenny
+- Interested in coding and website development
+- Pursuing B-Tech in Information Technology
+- Here is my virtual contact card - https://benetpaul.carrd.co/ 
 
 <!---
 Benetpaulbenny/Benetpaulbenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
