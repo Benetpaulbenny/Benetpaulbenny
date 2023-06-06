@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 Mail me at benetpaulbenny@gmail.com
 <p align="center">A Results-driven IT engineering student and a web developer passionate about developing user-friendly Website applications. Seeking to help companies to develop their product as a full stack developer, as well as grow and develop my own skills as a programmer.</p>
+<p align="center">Currently working on https://github.com/joyaljais/Project-Tradeify.git</p>
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
