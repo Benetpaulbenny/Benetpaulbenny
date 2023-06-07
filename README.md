@@ -30,6 +30,6 @@ Mail me at benetpaulbenny@gmail.com
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,codepen,css,dart,django,bootstrap,figma,flask,git,github,gitlab,html,hackerrank,java,js,mysql,linux,py,stackoverflow,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,codepen,css,django,bootstrap,figma,flask,git,github,gitlab,html,hackerrank,java,js,mysql,linux,py,stackoverflow,vscode,wordpress" />
   </a>
 </p>
