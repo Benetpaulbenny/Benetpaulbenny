@@ -18,6 +18,18 @@ Mail me at benetpaulbenny@gmail.com
 <p align="center">A Results-driven IT engineering student and a web developer passionate about developing user-friendly Website applications. Seeking to help companies to develop their product as a full stack developer, as well as grow and develop my own skills as a programmer.</p>
 <p align="center">Currently working on https://github.com/joyaljais/Project-Tradeify.git</p>
 <br>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=c,cpp,css,html,java,js,mysql,py&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,flask" />
+  </a>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,codepen,discord,figma,git,github,gitlab,linux,stackoverflow,vscode,wordpress" />
+  </a>
+</p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/_de_benet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Benet Paul Benny" height="30" width="40" /></a>
@@ -26,10 +38,4 @@ Mail me at benetpaulbenny@gmail.com
 <a href="https://instagram.com/_de_benet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Benet Paul Benny" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/737987111281623131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Benet Paul Benny" height="30" width="40" /></a>
 
-</p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,codepen,css,django,bootstrap,figma,flask,git,github,gitlab,html,hackerrank,java,js,mysql,linux,py,stackoverflow,vscode,wordpress" />
-  </a>
 </p>
