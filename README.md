@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
 <p align="left">Checkout my virtual contact card https://benetpaul.carrd.co</p>
 
 Mail me at benetpaulbenny@gmail.com
-<p align="center">Hello! I'm Benet Paul, a web developer and B.Tech IT student passionate about crafting engaging and intuitive digital experiences.
+<p align="justify">Hello! I'm Benet Paul, a web developer and B.Tech IT student passionate about crafting engaging and intuitive digital experiences.</p>
 
-Currently pursuing my B.Tech degree in Information Technology, I am constantly expanding my knowledge and skills in the ever-evolving world of web development. I thrive on learning new technologies and frameworks to stay at the forefront of the industry.
+<p align="justify">Currently pursuing my B.Tech degree in Information Technology, I am constantly expanding my knowledge and skills in the ever-evolving world of web development. I thrive on learning new technologies and frameworks to stay at the forefront of the industry.</p>
 
-As a curious learner, I'm always exploring new trends and best practices in web development. I'm particularly interested in user interface (UI) design, user experience (UX), and accessibility, ensuring that my websites are inclusive and user-friendly.
+<p align="justify">As a curious learner, I'm always exploring new trends and best practices in web development. I'm particularly interested in user interface (UI) design, user experience (UX), and accessibility, ensuring that my websites are inclusive and user-friendly.</p>
 
-I believe in the power of technology to transform lives and make a positive impact.</p>
+<p align="justify">I believe in the power of technology to transform lives and make a positive impact.</p>
 <p align="center">Currently working project: https://github.com/joyaljais/Project-Tradeify.git</p>
 <br>
 
