@@ -21,7 +21,7 @@ Mail me at benetpaulbenny@gmail.com
 
 <p align="justify">&emsp;As a curious learner, I'm always exploring new trends and best practices in web development. I'm particularly interested in user interface (UI) design, user experience (UX), and accessibility, ensuring that my websites are inclusive and user-friendly.</p>
 
-<p align="justify">&emsp;I believe in the power of technology to transform lives and make a positive impact.</p>
+<p align="justify">I believe in the power of technology to transform lives and make a positive impact.</p>
 <p align="center">Currently working project: https://github.com/joyaljais/Project-Tradeify.git</p>
 <br>
 
