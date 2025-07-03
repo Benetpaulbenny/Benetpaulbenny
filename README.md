@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">https://www.benetpaulbenny.me</p>
 
 
-<p align="left">&emsp;Self-motivated IT professional skilled in full-stack web development, UI/UX design, and SEO. Proficient with Django, FastAPI, CMS tools, and database management to build responsive, search-optimized websites.</p>
+<p align="left">Self-motivated IT professional skilled in full-stack web development, UI/UX design, and SEO. Proficient with Django, FastAPI, CMS tools, and database management to build responsive, search-optimized websites.</p>
 
 
 
