@@ -5,29 +5,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I'm Benet Paul Benny</h1>
-<h3 align="center">Self Learned Web Developer | Python Programmer</h3>
+<h3 align="center">Full-Stack Developer | SEO Researcher | UI/UX Optimization</h3>
 
 
-<p align="left">Pursuing B-Tech in Information Technology.</p>
-
-<p align="left">Checkout my portfolio https://www.benetpaulbenny.me</p>
+<p align="center">https://www.benetpaulbenny.me</p>
 
 Mail me at benetpaulbenny@gmail.com
-<p align="justify">&emsp;Hello! I'm Benet Paul, a web developer and B.Tech IT student passionate about crafting engaging and intuitive digital experiences.</p>
+<p align="left">&emsp;Self-motivated IT professional skilled in full-stack web development, UI/UX design, and SEO. Proficient with Django, FastAPI, CMS tools, and database management to build responsive, search-optimized websites.</p>
 
-<p align="justify">&emsp;Currently pursuing my B.Tech degree in Information Technology, I am constantly expanding my knowledge and skills in the ever-evolving world of web development. I thrive on learning new technologies and frameworks to stay at the forefront of the industry.</p>
 
-<p align="justify">&emsp;As a curious learner, I'm always exploring new trends and best practices in web development. I'm particularly interested in user interface (UI) design, user experience (UX), and accessibility, ensuring that my websites are inclusive and user-friendly.</p>
 
-<p align="justify">I believe in the power of technology to transform lives and make a positive impact.</p>
+<p align="left">I believe in the power of technology to transform lives and make a positive impact.</p>
 
 <br>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skills.thijs.gg/icons?i=c,cpp,css,html,java,js,mysql,py&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,flask" />
-  </a>
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
