@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">Pursuing B-Tech in Information Technology.</p>
 
-<p align="left">Checkout my virtual contact card https://benetpaul.carrd.co</p>
+<p align="left">Checkout my portfolio https://www.benetpaulbenny.me</p>
 
 Mail me at benetpaulbenny@gmail.com
 <p align="justify">&emsp;Hello! I'm Benet Paul, a web developer and B.Tech IT student passionate about crafting engaging and intuitive digital experiences.</p>
