@@ -6,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi, I'm Benet Paul Benny</h1>
 <h3 align="center">Full-Stack Developer | SEO Researcher | UI/UX Optimization</h3>
-
+<div align="center">
 [<img src="https://www.benetpaulbenny.me/images/favicon.ico" width="40" align="center"/>](https://benetpaulbenny.me)
+</div>
 <p align="center">www.benetpaulbenny.me</p>
 
 
