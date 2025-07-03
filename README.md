@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm Benet Paul Benny</h1>
 <h3 align="center">Full-Stack Developer | SEO Researcher | UI/UX Optimization</h3>
 
-[<img align="center" src="https://benetpaulbenny.me/favicon.ico" width="20"/>](https://benetpaulbenny.me)
+[<img src="https://benetpaulbenny.me/favicon.ico" width="20"/>](https://benetpaulbenny.me)
 <p align="center">www.benetpaulbenny.me</p>
 
 
